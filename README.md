@@ -2,17 +2,17 @@
 
 This project is a self-initiated effort aimed at enhancing my data analysis and visualization skills. Over the course of three days, I worked with real-world Netflix datasets to extract meaningful insights and present them visually using Tableau.
 
-🔍 Project Overview
+Project Overview
 Objective: Transform raw Netflix data into an interactive Tableau dashboard.
 Duration: 3 Days
 Dataset: Netflix Movies & TV Shows
 🛠 Skills & Tools Used
-✅ Data Cleaning & Preparation
-✅ Exploratory Data Analysis (EDA)
-✅ Tableau for Interactive Dashboards
-✅ Data Storytelling & Business Insights
+Data Cleaning & Preparation
+Exploratory Data Analysis (EDA)
+Tableau for Interactive Dashboards
+Data Storytelling & Business Insights
 
-📈 Key Learnings
+Key Learnings
 This project strengthened my ability to:
 
 Clean and preprocess raw datasets.
