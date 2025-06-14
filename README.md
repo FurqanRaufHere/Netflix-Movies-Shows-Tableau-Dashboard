@@ -13,7 +13,7 @@ Dataset: Netflix Movies & TV Shows
 - Tableau for Interactive Dashboards
 - Data Storytelling & Business Insights
 
-##Key Learnings
+## Key Learnings
 This project strengthened my ability to:
 - Clean and preprocess raw datasets.
 - Conduct exploratory data analysis to uncover patterns.
